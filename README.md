@@ -1,6 +1,6 @@
 ### Open Learning - an introduction to Open Source collaboration
 
-# `Don't Panic` - This is going to be fun :notes:
+# `Don't Panic` - This is going to be really fun :notes:
 
 ![unicorn][unicorn]
 
